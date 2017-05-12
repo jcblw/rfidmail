@@ -1,5 +1,7 @@
 ## RFIDMail
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/rfidmail.svg)](https://greenkeeper.io/)
+
 send an email with the swipe of an rfid card, only authed ones.
 
 ### Install
